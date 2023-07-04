@@ -1,0 +1,8 @@
+train: /home/azureuser/yolov7/data/miniature-data/train
+val: /home/azureuser/yolov7/data/miniature-data/val
+
+# number of classes
+nc: 2
+
+# class names
+names: ['marine', 'terminator']
